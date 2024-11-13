@@ -1,0 +1,10 @@
+html{
+    /* 設定元素大小包含border+padding */
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    /* 確保body元素佔滿整個視窗避免空白 */
+    min-height: 100vh;
+    background: #BFBE9C;
+}
