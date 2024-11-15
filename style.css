@@ -1,5 +1,4 @@
 html{
-    /* 設定元素大小包含border+padding */
     box-sizing: border-box;
 }
 body{
@@ -80,7 +79,7 @@ button:active{
     font-size: 1.5rem;
 }
 
-/* 設定手機或比螢幕更小情況 */
+/* Cellphone or small screen */
 @media screen and (max-width:1000px){
     .quote-container{
         margin:auto 10px;
