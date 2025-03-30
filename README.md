@@ -18,6 +18,7 @@ A simple web app that shows random inspirational quotes.
   可以將名言分享到 X（Twitter）
 
 ##  Preview 預覽畫面
+![Quote Screenshot](quote.gif)
 
 ##  Tech Stack 技術細節 
 
